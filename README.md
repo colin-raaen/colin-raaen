@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Colin Raaen 👋
 
-<!--
-**craaen10/craaen10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Software Developer
 
-Here are some ideas to get you started:
+- I'm a self-taught software developer
+- I've been working in the tech industry for 8+ years in various roles
+- Currently based in New York, NY
+- Reach out to me on  or colin.raaen@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages & Tools:
+
+
+[![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=craaen10)](https://github.com/craaen10/github-readme-stats)
