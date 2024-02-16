@@ -11,4 +11,4 @@ These are skills that I'm proficient at or currently learning
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,py,c,html,css,sqlite,flask,jquery,vscode,idea,git)](https://skillicons.dev)
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craaen10&layout=compact&theme=dark)](https://github.com/craaen10/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colin-raaen&layout=compact&theme=dark)](https://github.com/colin-raaen/github-readme-stats)
