@@ -8,7 +8,7 @@ I've always had a curiousity about coding, but finally decided to take some init
 ### Languages & Tools
 These are skills that I'm proficient at or currently learning 
 <br><br>
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,py,c,html,css,sqlite,flask,jquery,vscode,idea,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,py,c,html,css,sqlite,flask,bootstrap,jquery,vscode,idea,git)](https://skillicons.dev)
 <br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colin-raaen&layout=compact&theme=dark)](https://github.com/colin-raaen/github-readme-stats)
