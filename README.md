@@ -1,4 +1,4 @@
-### Hi there, I'm Colin Raaen 👋 Full Stack Software Developer
+### Hi there, I'm Colin Raaen 👋 Software Developer
 
 I'm a self-taught software developer based in New York, NY, with over 8 years of experience in the tech industry across various roles.  I initially started my career in customer facing roles, but I quickly found out I was more passionate about the technologies themselves and how they solve business problems.
 <br><br>
